@@ -17,7 +17,7 @@
 ## ⚙️ Skills & Technologies:
 
 🎨 Frontend: **JavaScript (JS)**  
-⚙️ Backend: **Kotlin, Java, C++**  
+⚙️ Backend: **Kotlin, Java, C++, Python**  
 📱 Mobile Development: **Android (Jetpack Compose, Kotlin, Java)**  
 💾 Databases: **Firebase, SQLite**  
 🔧 Tools & Platforms: **Git, Android Studio, Jetpack Libraries**  
